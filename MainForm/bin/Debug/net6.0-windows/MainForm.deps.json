@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MainForm/1.0.0": {
+        "dependencies": {
+          "DAO": "1.0.0"
+        },
+        "runtime": {
+          "MainForm.dll": {}
+        }
+      },
+      "DAO/1.0.0": {
+        "runtime": {
+          "DAO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MainForm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DAO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
